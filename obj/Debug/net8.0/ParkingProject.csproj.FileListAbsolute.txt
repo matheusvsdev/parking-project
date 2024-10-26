@@ -12,3 +12,4 @@
 /Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.pdb
 /Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.genruntimeconfig.cache
 /Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ref/ParkingProject.dll
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.sourcelink.json
