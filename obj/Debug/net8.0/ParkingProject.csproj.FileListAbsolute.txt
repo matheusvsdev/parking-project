@@ -1,0 +1,14 @@
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/bin/Debug/net8.0/ParkingProject
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/bin/Debug/net8.0/ParkingProject.deps.json
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/bin/Debug/net8.0/ParkingProject.runtimeconfig.json
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/bin/Debug/net8.0/ParkingProject.dll
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/bin/Debug/net8.0/ParkingProject.pdb
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.AssemblyInfoInputs.cache
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.AssemblyInfo.cs
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.csproj.CoreCompileInputs.cache
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.dll
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/refint/ParkingProject.dll
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.pdb
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ParkingProject.genruntimeconfig.cache
+/Users/matheusvaldevino/Documents/Programação/C#/ParkingProject/obj/Debug/net8.0/ref/ParkingProject.dll
